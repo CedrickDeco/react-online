@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a2b40277.css",
-    "main.js": "/static/js/main.73f1df09.js",
+    "main.css": "/static/css/main.5963b3e7.css",
+    "main.js": "/static/js/main.95303f10.js",
     "static/media/Farsan-Regular.ttf": "/static/media/Farsan-Regular.d94b63e761a4f08a2f98.ttf",
     "static/media/Allura-Regular.ttf": "/static/media/Allura-Regular.9429cde4d80d03c85860.ttf",
     "static/media/a.jpeg": "/static/media/a.d9ad91a43c81732389f9.jpeg",
@@ -18,11 +18,11 @@
     "static/media/Lugrasimo-Regular.ttf": "/static/media/Lugrasimo-Regular.d80bf32e05bbfd3f566f.ttf",
     "static/media/c.jpeg": "/static/media/c.44bba8aa3827db758955.jpeg",
     "index.html": "/index.html",
-    "main.a2b40277.css.map": "/static/css/main.a2b40277.css.map",
-    "main.73f1df09.js.map": "/static/js/main.73f1df09.js.map"
+    "main.5963b3e7.css.map": "/static/css/main.5963b3e7.css.map",
+    "main.95303f10.js.map": "/static/js/main.95303f10.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2b40277.css",
-    "static/js/main.73f1df09.js"
+    "static/css/main.5963b3e7.css",
+    "static/js/main.95303f10.js"
   ]
 }
